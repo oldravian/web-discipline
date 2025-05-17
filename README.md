@@ -2,6 +2,9 @@
 
 **Web Discipline** is a simple and lightweight Chrome extension that helps you manage your time online by limiting daily usage on distracting websites like Facebook, YouTube, Instagram, and more. Set your daily time allowance, distracting website links, and let the extension track your usage. Once the limit is reached, access to the specified sites is automatically blocked for the rest of the day.
 
+# Screenshot
+![extension-screenshot](screenshots/web-discipline-extension-screenshot.png) 
+
 ## Features
 
 -  **Daily Time Limit:** Set the maximum hours you can spend on selected websites daily.
