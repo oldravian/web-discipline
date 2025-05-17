@@ -27,3 +27,14 @@
 3. Enable Developer Mode.
 
 4. Click Load Unpacked and select the project directory.
+
+
+## Issues I found while testing
+During testing this extension, I found below issues that need to be fixed:
+1. Sometimes, the timer didn't stop even after the time limit was reached.
+2. Sometimes extension blocks all sites other than the mentioned ones.
+
+## Contribution
+If you encounter any issues while using the extension, please feel free to report them directly to me or open a new issue on this GitHub repository.
+
+Contributions are highly welcome! To contribute, simply fork the repository, create a new branch for your changes, and open a pull request against the master branch of this repository.
